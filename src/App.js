@@ -23,7 +23,7 @@ function App() {
 		};
 		
 		// URL of the API endpoint
-		const apiUrl = 'http://localhost:3001/predict';
+		const apiUrl = 'https://64.247.206.233:46385/predict';
 		
 		// Configuration for the fetch POST request
 		const requestOptions = {
