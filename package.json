@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "config-overrides": "node ./config/sass.js",
+    "config-overrides": "node ./config/sass.js"
   },
   "eslintConfig": {
     "extends": [
